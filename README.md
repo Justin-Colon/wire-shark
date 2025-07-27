@@ -43,10 +43,10 @@ First thing I did was make sure I created and configured two VM's. Operating sys
 <br />
 
 <p>
-<img src="https://github.com/Justin-Colon/VPN-Setup-Usage/blob/9cc93bada740c7d6b72a3077a48616211f52cef5/vpn/vpn3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Justin-Colon/wire-shark/blob/aee6ad7bda87b819db4c94c538b1d5e60d61d09b/ICMP/2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Here is where we search https://whatismyipaddress.com/ just to get the IP address of our personal computer.
+What is shown in the highlighted portion is the public IP addess of my windows 10 vm. I then copy this IP address so that I can enter it onto RDP.
 </p>
 <br />
 
