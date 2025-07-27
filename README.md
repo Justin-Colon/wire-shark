@@ -91,10 +91,19 @@ Here is what is happening on the backend of my computer. A bunch of data be sent
 <br />
 
 <p>
-<img src="https://github.com/Justin-Colon/wire-shark/blob/3a97db6814770b9a0a0352098ffe815929940c2d/ICMP/8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Justin-Colon/wire-shark/blob/2e062b3125abd00aa7668270fc9ec63edf1cd190/ICMP/9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Here is what is happening on the backend of my computer. A bunch of data be sent over the internet but I am going to filter it so that only ICMP traffic is being shown.
+I went back to micrsoft azure on my operating system to obtain the private IP address of vm2 so that I can "ping" it on vm1 throught powershell. 
 </p>
 <br />
+
+<p>
+<img src="https://github.com/Justin-Colon/wire-shark/blob/2e062b3125abd00aa7668270fc9ec63edf1cd190/ICMP/9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+I went back to micrsoft azure on my operating system to obtain the private IP address of vm2 so that I can "ping" it on vm1 throught powershell. 
+</p>
+<br />
+
 
