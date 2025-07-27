@@ -99,10 +99,10 @@ I went back to micrsoft azure on my operating system to obtain the private IP ad
 <br />
 
 <p>
-<img src="https://github.com/Justin-Colon/wire-shark/blob/2e062b3125abd00aa7668270fc9ec63edf1cd190/ICMP/9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Justin-Colon/wire-shark/blob/0b72868c5ade7aa49411f35bf980a0b655f26d6d/ICMP/10.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-I went back to micrsoft azure on my operating system to obtain the private IP address of vm2 so that I can "ping" it on vm1 throught powershell. 
+As you can see I pinged the private IP address of vm2 on vm1's powershell application and got 4 responses which is normal for windows beacuse thats the default behavior of that operating system. You are suppose to get 4 request from vm1 and 4 replies from vm2 which are echo request and replies. 
 </p>
 <br />
 
