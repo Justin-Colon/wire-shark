@@ -59,9 +59,17 @@ On RDP is where I plugged in the public IP address of vm1 so that I can connect 
 <br />
 
 <p>
-<img src="https://github.com/Justin-Colon/VPN-Setup-Usage/blob/74e8d6a079e848329393848d0471de1999570fa2/vpn/vpn5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Justin-Colon/wire-shark/blob/e7c9bfc8fddb62adbac51b682de6ad2a07db73d2/ICMP/4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Now I have gone ahead and downloaded proton vpn onto my vm only.
+Once on windows 10 I opened powershell which is a command line tool that allows me to talk with my computer. 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Justin-Colon/wire-shark/blob/e7c9bfc8fddb62adbac51b682de6ad2a07db73d2/ICMP/4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Once on windows 10 I opened powershell which is a command line tool that allows me to talk with my computer. 
 </p>
 <br />
