@@ -33,7 +33,6 @@ This tutorial outlines how to observe ICMP traffic using wire shark between two 
 - Public IP Address(Optinal)
 - Inbound Port Rules
 
-<h2>VPN setup and Usage Steps</h2>
 
 <p>
 <img src="https://github.com/Justin-Colon/VPN-Setup-Usage/blob/ac1b2f558e614fb2c2a489b783baa399a0eaa826/vpn/vpn1%20.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
