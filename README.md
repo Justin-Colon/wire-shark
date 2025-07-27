@@ -51,10 +51,10 @@ What is shown in the highlighted portion is the public IP addess of my windows 1
 <br />
 
 <p>
-<img src="https://github.com/Justin-Colon/VPN-Setup-Usage/blob/5bd98f4418a52f75fce756bec083167f16cf5d49/vpn/vpn4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Justin-Colon/wire-shark/blob/59cd00e7f50dc05ee6ecc1cfd09b7517242cd5d0/ICMP/3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-I did the samething in our VM this time and as you can see our IP address and region is different from our actual computer. We have established a tunnel between our computer and the vm using a non vpn connection. 
+On RDP is where I plugged in the public IP address of vm1 so that I can connect to it. 
 </p>
 <br />
 
