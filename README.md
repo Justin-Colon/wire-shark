@@ -102,7 +102,7 @@ I went back to micrsoft azure on my operating system to obtain the private IP ad
 <img src="https://github.com/Justin-Colon/wire-shark/blob/0b72868c5ade7aa49411f35bf980a0b655f26d6d/ICMP/10.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-As you can see I pinged the private IP address of vm2 on vm1's powershell application and got 4 responses which is normal for windows beacuse thats the default behavior of that operating system. You are suppose to get 4 request from vm1 and 4 replies from vm2 which are echo request and replies. 
+As you can see I pinged the private IP address of vm2 on vm1's powershell application and got 4 responses which is normal for windows beacuse thats the default behavior of that operating system. You are suppose to get 4 request from vm1 and 4 replies from vm2 which are echo request and replies. So this was a successful request and reply from windows 10 (private IP 10.0.0.4) to linux (private IP 10.0.0.5). Both computers were able to effectivelt communicate with one another through powershell and I was successfully able to observe that ICMP traffic on the back end with wireshark. 
 </p>
 <br />
 
