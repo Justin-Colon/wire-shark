@@ -83,10 +83,10 @@ Once wireshark is downloaded on vm1, you can see where I highlighted, right next
 <br />
 
 <p>
-<img src="https://github.com/Justin-Colon/wire-shark/blob/59ae5e458210be07b6aa2fffe293ae0866514570/ICMP/6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Justin-Colon/wire-shark/blob/3a97db6814770b9a0a0352098ffe815929940c2d/ICMP/8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Once wireshark is downloaded on vm1, you can see where I highlighted, right next to ethernet, there's a scribble of some sort. That is actually wireshark indicating that there is network activity. Now to open up this ethernet apllication, I left it highlighted and clicked on the shark fin on the top left corner of the wireshark program.
+Here is what is happening on the backend of my computer. A bunch of data be sent over the internet but I am going to filter it so that only ICMP traffic is being shown.
 </p>
 <br />
 
