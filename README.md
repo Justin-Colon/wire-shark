@@ -75,10 +75,10 @@ Now I downloaded windows x64 installer on wireshark which is network protocol an
 <br />
 
 <p>
-<img src="https://github.com/Justin-Colon/wire-shark/blob/dadf604de21451ee50cecd569ac968f59fea1d9d/ICMP/5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Justin-Colon/wire-shark/blob/59ae5e458210be07b6aa2fffe293ae0866514570/ICMP/6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Now I downloaded windows x64 installer on wireshark which is network protocol analyzer, a tool that lets you see exactly what’s happening on a network in real time. 
+Once wireshark is downloaded on vm1, you can see where I highlighted, right next to ethernet, there's a scribble of some sort. That is actually wireshark indicating that there is network activity. Now to open up this ethernet apllication, I left it highlighted and clicked on the shark fin on the top left corner of the wireshark program.
 </p>
 <br />
 
