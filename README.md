@@ -2,7 +2,7 @@
 <img src="https://cdn.pixabay.com/photo/2019/11/19/08/44/map-4636843_640.jpg"alt="osTicket logo"/>
 </p>
 
-<h1>Wire Shark</h1>
+<h1>Wireshark</h1>
 This tutorial outlines how to observe SSH traffic using wire shark between two vm's on your personal operating system.<br />
 
 
