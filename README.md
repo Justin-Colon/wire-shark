@@ -3,7 +3,7 @@
 </p>
 
 <h1>Wireshark</h1>
-This tutorial outlines how to observe SSH traffic using wire shark between two vm's on your personal operating system.<br />
+This tutorial outlines how to observe ICMP traffic using wire shark between two vm's on your personal operating system.<br />
 
 
 
