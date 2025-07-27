@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://cdn.pixabay.com/photo/2019/11/19/08/44/map-4636843_640.jpg"alt="osTicket logo"/>
+<img src="https://miro.medium.com/v2/resize:fit:800/0*R0z2QhK2HnM0aU5Z.jpg"alt="osTicket logo"/>
 </p>
 
 <h1>Wireshark</h1>
@@ -10,12 +10,15 @@ This tutorial outlines how to observe SSH traffic using wire shark between two v
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
+- Windows 10 server 
+- Ubuntu Server 22.04 LTS-x64 Gen 2
 - Remote Desktop
 - Internet Information Services (IIS)
 
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
+- Ubuntu Server 22.04 LTS-x64 Gen 2
 
 <h2>List of Prerequisites</h2>
 
