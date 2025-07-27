@@ -35,10 +35,10 @@ This tutorial outlines how to observe ICMP traffic using wire shark between two 
 
 
 <p>
-<img src="https://github.com/Justin-Colon/VPN-Setup-Usage/blob/ac1b2f558e614fb2c2a489b783baa399a0eaa826/vpn/vpn1%20.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Justin-Colon/wire-shark/blob/fcb8dcdbbf01f33b9494884457df3e3ff8d38060/ICMP/1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-First I start by configuring my windows 10 vm with the basics. 
+First thing I did was make sure I created and configured two VM's. Operating system for vm1 is windows 10 and vm2 is using linux. 
 </p>
 <br />
 
