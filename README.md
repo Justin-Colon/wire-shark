@@ -90,3 +90,11 @@ Here is what is happening on the backend of my computer. A bunch of data be sent
 </p>
 <br />
 
+<p>
+<img src="https://github.com/Justin-Colon/wire-shark/blob/3a97db6814770b9a0a0352098ffe815929940c2d/ICMP/8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Here is what is happening on the backend of my computer. A bunch of data be sent over the internet but I am going to filter it so that only ICMP traffic is being shown.
+</p>
+<br />
+
