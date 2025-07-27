@@ -73,3 +73,12 @@ Once on windows 10 I opened powershell which is a command line tool that allows 
 Now I downloaded windows x64 installer on wireshark which is network protocol analyzer, a tool that lets you see exactly what’s happening on a network in real time. 
 </p>
 <br />
+
+<p>
+<img src="https://github.com/Justin-Colon/wire-shark/blob/dadf604de21451ee50cecd569ac968f59fea1d9d/ICMP/5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Now I downloaded windows x64 installer on wireshark which is network protocol analyzer, a tool that lets you see exactly what’s happening on a network in real time. 
+</p>
+<br />
+
